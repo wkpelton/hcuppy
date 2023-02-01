@@ -16,7 +16,7 @@ class ElixhauserEngine:
         # Weights from CMR_Index_Program_v2023-1.sas 
         self.weights = {
             "rdmsn": {
-                "AIDS":19,
+                "AIDS":19 ,
                 "ALCOHOL":6,
                 "ANEMDEF":9,
                 "ARTH":4,
